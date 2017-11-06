@@ -65,7 +65,7 @@
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
-        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.1/res/layout/redbox_item_frame.xml"
+        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
@@ -97,7 +97,7 @@
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/fps_view.xml",
-        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.1/res/layout/fps_view.xml"
+        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
@@ -137,11 +137,11 @@
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/redbox_view.xml",
-        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.1/res/layout/redbox_view.xml"
+        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
-        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.1/res/layout/dev_loading_view.xml"
+        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -149,7 +149,7 @@
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
-        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.1/res/layout/redbox_item_title.xml"
+        "source": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.4/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/mo/Desktop/sn_react/vendor/react-native-aes/android/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",

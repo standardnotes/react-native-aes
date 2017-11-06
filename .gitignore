@@ -1,3 +1,11 @@
 .DS_Store
 ios/RCTAes.xcodeproj/xcuserdata/*
 ios/RCTAes.xcodeproj/project.xcworkspace/*
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
