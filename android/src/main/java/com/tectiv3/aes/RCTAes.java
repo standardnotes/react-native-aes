@@ -152,8 +152,7 @@ public class RCTAes extends ReactContextBaseJavaModule {
         MessageDigest md = MessageDigest.getInstance(algorithm);
         md.update(data.getBytes());
         byte[] digest = md.digest();
-
-        return Base64.encodeToString(digest, Base64.DEFAULT);
+        return bytesToHex(digest);
     }
 
     public static String bytesToHex(byte[] bytes) {
