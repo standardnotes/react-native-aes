@@ -4,8 +4,8 @@ ios/RCTAes.xcodeproj/project.xcworkspace/*
 
 # Android/IntelliJ
 #
-build/
-.idea
-.gradle
+android/.idea/*
+android/.gradle/*
+android/build/*
 local.properties
 *.iml
